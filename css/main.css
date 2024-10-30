@@ -1,0 +1,22 @@
+.h1_class{
+    text-align: center;
+}
+
+.services{
+    width: 33%;
+    float:left ;
+    text-align: center;
+    height: fit-content;
+}
+
+.clear{
+    clear: both;
+}
+ 
+i{
+   background-color: orange;
+   border: ;
+   color: white;
+}
+
+
